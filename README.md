@@ -57,16 +57,6 @@
 
 ---
 
-## 📈 Profile Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=drbsy&label=Profile%20Views&color=00d26a&style=flat-square)
-
-</div>
-
----
-
 <div align="center">
   
 ⭐ **If you like my projects, feel free to star them!**
