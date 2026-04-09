@@ -41,8 +41,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drbsy&theme=dark&hide_border=true&background=1a1a1a&stroke=00d26a)](https://github.com/drbsy)
 
-[![GitHub Stats](https://github-readme-stats-nine-liart-90.vercel.app/api?username=drbsy&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/drbsy)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drbsy&layout=compact&theme=dark&hide_border=true)
 </div>
 
 ---
