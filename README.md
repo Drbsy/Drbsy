@@ -38,6 +38,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Drbsy&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Drbsy&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drbsy&layout=compact&theme=dark&hide_border=true)
 </div>
 
 ---
