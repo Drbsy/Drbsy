@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<div align="left">
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" />
 <img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" width="35" height="35" />
