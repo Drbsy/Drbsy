@@ -1,4 +1,4 @@
-# Hi, I'm Drbsy 👋
+# Hi, I'm Drbsy (Ishak) 👋
 ### A Gamedev / Developer
 <div align="center">
   
