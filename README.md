@@ -33,7 +33,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drbsy&theme=dark&hide_border=true&background=1a1a1a&stroke=00d26a)](https://github.com/drbsy)
 
-![Top Languages](https://github-readme-stats-nine-swart-43.vercel.app/api/top-langs/?username=Drbsy&layout=compact&theme=dark&hide_border=true&hide=javascript,typescript,css)
+![Top Languages](https://github-readme-stats-nine-swart-43.vercel.app/api/top-langs/?username=Drbsy&layout=compact&theme=dark)
 
 </div>
 
